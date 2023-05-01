@@ -1,0 +1,158 @@
+< !DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><title>appName</title><meta name="referrer" content="origin"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="description" content="appName"/><meta property="og:description" content="appName"/><meta property="og:title" content="appName"/><meta property="og:type" content="website"/><meta property="og:image" content="https://everdome.io/_next/static/media/poster.0f4e0589.png"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><meta name="theme-color" content="#000000"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-N5BVDZ2E9D"></script><script>window.dataLayer=window.dataLayer || [];
+function gtag() {
+    dataLayer.push(arguments);
+}
+
+gtag('js', new Date());
+gtag('config', 'G-N5BVDZ2E9D');
+</script><meta name="next-head-count" content="11"/><link rel="preload" href="/_next/static/css/22cd5baa3622f521.css" as="style"/><link rel="stylesheet" href="/_next/static/css/22cd5baa3622f521.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="/_next/static/chunks/webpack-cc8cd0afdbe603a6.js" defer=""></script><script src="/_next/static/chunks/framework-560765ab0625ba27.js" defer=""></script><script src="/_next/static/chunks/main-0f4f395899ca632b.js" defer=""></script><script src="/_next/static/chunks/pages/_app-ee4f7a7a69090762.js" defer=""></script><script src="/_next/static/chunks/4163-cc0be7df79e9359b.js" defer=""></script><script src="/_next/static/chunks/5472-208ac865dd42a017.js" defer=""></script><script src="/_next/static/chunks/8658-b4e8e76b55dbc351.js" defer=""></script><script src="/_next/static/chunks/8150-b9e8068b4cfbff49.js" defer=""></script><script src="/_next/static/chunks/pages/%5Bslug%5D-19371ca2f370f6ad.js" defer=""></script><script src="/_next/static/eAbIalO75ZFjhojX4V5CN/_buildManifest.js" defer=""></script><script src="/_next/static/eAbIalO75ZFjhojX4V5CN/_ssgManifest.js" defer=""></script><style data-styled="" data-styled-version="5.3.5">.fOeLwX {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+    position: fixed;
+    right: 10px;
+    z-index: 10;
+    bottom: 265px;
+}
+
+/*!sc*/
+
+@media only screen and (min-width:769px) {
+    .fOeLwX {
+        bottom: 320px;
+    }
+}
+
+/*!sc*/
+
+@media only screen and (min-width:1089px) {
+    .fOeLwX {
+        bottom: calc(10% + 250px);
+    }
+}
+
+/*!sc*/
+
+.fOeLwX a {
+    cursor: pointer;
+    margin-bottom: 15px;
+    opacity: 0;
+    pointer-events: none;
+    color: #ee4492;
+    -webkit-transition: opacity 0.2s 0.15s ease-in-out, color 0.3s ease-in-out;
+    transition: opacity 0.2s 0.15s ease-in-out, color 0.3s ease-in-out;
+}
+
+/*!sc*/
+
+@media only screen and (min-width:1089px) {
+    .fOeLwX a {
+        opacity: 1;
+        pointer-events: all;
+        color: rgba(238, 68, 146, 0.5);
+    }
+    .fOeLwX a:hover {
+        color: #ee4492;
+    }
+}
+
+/*!sc*/
+
+.fOeLwX button {
+    background: none;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    margin-bottom: 20px;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    -webkit-transition: -webkit-transform 0.2s ease-in-out;
+    -webkit-transition: transform 0.2s ease-in-out;
+    transition: transform 0.2s ease-in-out;
+}
+
+/*!sc*/
+
+@media only screen and (min-width:1089px) {
+    .fOeLwX button {
+        display: none;
+    }
+}
+
+/*!sc*/
+
+data-styled.g27[id="sc-8933ded9-0"] {
+    content: "fOeLwX,"
+}
+
+/*!sc*/
+
+.kaFwBD {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100vw;
+    max-width: 100%;
+    min-height: 100vh;
+    position: relative;
+}
+
+/*!sc*/
+
+@media only screen and (max-width:1088px) {
+    .kaFwBD {
+        overflow: hidden;
+    }
+}
+
+/*!sc*/
+
+data-styled.g49[id="sc-7dd06286-0"] {
+    content: "kaFwBD,"
+}
+
+/*!sc*/
+
+#staking-modal.open~.sc-7dd06286-1 {
+    -webkit-filter: brightness(0.1);
+    filter: brightness(0.1);
+    pointer-events: none;
+}
+
+/*!sc*/
+
+data-styled.g50[id="sc-7dd06286-1"] {
+    content: "hOBZqi,"
+}
+
+/*!sc*/
+
+</style></head><body><div id="__next" data-reactroot=""><div class="sc-7dd06286-0 kaFwBD"><div class="sc-8933ded9-0 fOeLwX"><button><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16.464 1c-1.941 0-3.535 1.605-3.535 3.559 0 .477.099.937.27 1.355L7.957 9.422a3.503 3.503 0 0 0-2.42-.98C3.594 8.441 2 10.045 2 12c0 1.954 1.594 3.559 3.536 3.559.943 0 1.794-.378 2.43-.991l5.234 3.518c-.175.42-.271.875-.271 1.355 0 1.954 1.594 3.559 3.535 3.559C18.406 23 20 21.395 20 19.441c0-1.954-1.594-3.559-3.536-3.559a3.48 3.48 0 0 0-2.059.688l-5.454-3.66a3.51 3.51 0 0 0 0-1.83l5.434-3.65a3.476 3.476 0 0 0 2.08.688c1.94 0 3.535-1.605 3.535-3.56C20 2.606 18.406 1 16.464 1Zm0 1.941c.9 0 1.607.713 1.607 1.618 0 .905-.708 1.617-1.607 1.617a1.598 1.598 0 0 1-1.607-1.617c0-.905.708-1.618 1.607-1.618ZM5.536 10.382c.899 0 1.607.713 1.607 1.618 0 .905-.708 1.618-1.607 1.618A1.598 1.598 0 0 1 3.929 12c0-.905.708-1.618 1.607-1.618Zm10.928 7.441c.9 0 1.607.713 1.607 1.618 0 .905-.708 1.618-1.607 1.618a1.598 1.598 0 0 1-1.607-1.618c0-.905.708-1.617 1.607-1.617Z" fill="#EE4492"></path></svg></button><a href="https://www.youtube.com/@EverdomeYT" target="_blank" rel="noreferrer"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#logo-youtube_svg__a)"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0C.488 3.45.029 5.804 0 12c.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0C23.512 20.55 23.971 18.196 24 12c-.029-6.185-.484-8.549-4.385-8.816ZM9 16V8l8 3.993L9 16Z" fill="currentColor"></path></g><defs><clipPath id="logo-youtube_svg__a"><path fill="#fff" d="M0 0h24v24H0z"></path></clipPath></defs></svg></a><a href="https://www.instagram.com/everdome.ig" target="_blank" rel="noreferrer"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.162c3.204 0 3.584.012 4.849.07 1.17.054 1.805.249 2.228.413.56.218.96.478 1.38.898.42.42.68.82.898 1.38.164.423.36 1.058.413 2.228.058 1.265.07 1.645.07 4.849s-.012 3.584-.07 4.849c-.053 1.17-.249 1.805-.413 2.228-.218.56-.478.96-.898 1.38-.42.42-.82.68-1.38.898-.423.164-1.058.36-2.228.413-1.265.058-1.645.07-4.849.07s-3.584-.012-4.849-.07c-1.17-.053-1.805-.249-2.228-.413a3.718 3.718 0 0 1-1.38-.898c-.42-.42-.68-.82-.898-1.38-.164-.423-.36-1.058-.413-2.228-.058-1.265-.07-1.645-.07-4.849s.012-3.584.07-4.849c.053-1.17.249-1.805.413-2.228.218-.56.478-.96.898-1.38.42-.42.82-.68 1.38-.898.423-.164 1.058-.36 2.228-.413 1.265-.058 1.645-.07 4.849-.07ZM12 0C8.74 0 8.332.014 7.052.072 5.775.131 4.902.333 4.14.63a5.882 5.882 0 0 0-2.126 1.384A5.882 5.882 0 0 0 .63 4.14c-.297.763-.5 1.635-.558 2.912C.014 8.332 0 8.741 0 12c0 3.26.014 3.668.072 4.948.058 1.277.261 2.15.558 2.912.307.79.717 1.459 1.384 2.126A5.88 5.88 0 0 0 4.14 23.37c.763.297 1.635.5 2.912.558C8.332 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 1.277-.059 2.15-.261 2.912-.558a5.88 5.88 0 0 0 2.126-1.384 5.883 5.883 0 0 0 1.384-2.126c.297-.763.5-1.635.558-2.912.058-1.28.072-1.689.072-4.948 0-3.259-.014-3.668-.072-4.948-.059-1.277-.261-2.15-.558-2.912a5.883 5.883 0 0 0-1.384-2.126A5.882 5.882 0 0 0 19.86.63c-.763-.297-1.635-.5-2.912-.558C15.668.014 15.259 0 12 0Zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324ZM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8Zm7.846-10.406a1.44 1.44 0 1 1-2.88 0 1.44 1.44 0 0 1 2.88 0Z" fill="currentColor"></path></svg></a><a href="https://www.linkedin.com/company/everdome-io" target="_blank" rel="noreferrer"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#logo-linkedin_svg__a)"><path d="M4.98 3.609c0 1.44-1.11 2.608-2.48 2.608C1.13 6.217.02 5.05.02 3.61.02 2.169 1.13 1 2.5 1c1.37 0 2.48 1.169 2.48 2.609ZM5 8.304H0V25h5V8.304Zm7.982 0H8.014V25h4.969v-8.764c0-4.873 6.029-5.272 6.029 0V25H24V14.428c0-8.222-8.922-7.923-11.018-3.875V8.304Z" fill="currentColor"></path></g><defs><clipPath id="logo-linkedin_svg__a"><path fill="#fff" d="M0 0h24v24H0z"></path></clipPath></defs></svg></a><a href="https://twitter.com/Everdome_io" target="_blank" rel="noreferrer"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#logo-twitter_svg__a)"><path d="M24 4.557a9.83 9.83 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724 9.864 9.864 0 0 1-3.127 1.195 4.916 4.916 0 0 0-3.594-1.555c-3.179 0-5.515 2.966-4.797 6.045A13.978 13.978 0 0 1 1.671 3.149a4.93 4.93 0 0 0 1.523 6.574 4.903 4.903 0 0 1-2.229-.616c-.054 2.281 1.581 4.415 3.949 4.89a4.935 4.935 0 0 1-2.224.084 4.928 4.928 0 0 0 4.6 3.419A9.9 9.9 0 0 1 0 19.54a13.94 13.94 0 0 0 7.548 2.212c9.142 0 14.307-7.721 13.995-14.646A10.025 10.025 0 0 0 24 4.557Z" fill="currentColor"></path></g><defs><clipPath id="logo-twitter_svg__a"><path fill="#fff" d="M0 0h24v24H0z"></path></clipPath></defs></svg></a><a href="https://t.me/everdome_io_news" target="_blank" rel="noreferrer"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><g fill="currentColor" clip-path="url(#logo-telegram-news_svg__a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M19.235 16.415c.273.19.625.236.94.12a.97.97 0 0 0 .614-.697c.737-3.39 2.525-11.968 3.196-15.051a.64.64 0 0 0-.22-.63.691.691 0 0 0-.676-.115C19.53 1.33 8.576 5.35 4.098 6.972a.686.686 0 0 0-.46.662.69.69 0 0 0 .503.635c2.008.587 4.644 1.405 4.644 1.405s1.232 3.639 1.874 5.49a.737.737 0 0 0 1.2.306l2.627-2.426s3.03 2.173 4.75 3.371Zm-9.34-7.201 1.424 4.596.316-2.91 8.641-7.624a.227.227 0 0 0 .028-.313.245.245 0 0 0-.319-.053L9.895 9.214Z"></path><path d="M0 23.86h1.325v-3.044c.217-.29.51-.476.87-.476.445 0 .776.308.776.803v2.717h1.325v-3.044c0-1.083-.823-1.671-1.694-1.671-.587 0-1.003.224-1.296.514v-.365H0v4.566ZM7.489 24c.927 0 1.476-.243 1.901-.514v-1.13c-.605.393-1.135.561-1.76.561-.577 0-1.163-.346-1.192-.971h3.274c.01-.075.02-.27.02-.383 0-1.41-.834-2.418-2.3-2.418-1.325 0-2.375.962-2.375 2.4C5.057 23.121 6.155 24 7.489 24Zm-1.022-2.932c.028-.41.388-.84.965-.84.634 0 .937.41.965.84h-1.93ZM11.369 23.86l1.636.01.852-2.914.87 2.904 1.628.01 1.325-4.576H16.24l-.756 3.128-.966-3.128h-1.315l-.974 3.128-.757-3.128h-1.457l1.353 4.566ZM19.817 24c1.286 0 2.015-.635 2.015-1.531 0-.794-.464-1.223-1.41-1.4l-.51-.103c-.266-.056-.417-.168-.417-.327 0-.206.18-.355.596-.355.492 0 1.07.15 1.523.355v-1.186a3.91 3.91 0 0 0-1.514-.308c-1.258 0-1.901.672-1.901 1.494 0 .878.586 1.251 1.296 1.382l.53.102c.303.056.426.187.426.355 0 .243-.218.374-.616.374-.444 0-1.088-.16-1.627-.42v1.25c.398.15.975.318 1.609.318Z"></path></g><defs><clipPath id="logo-telegram-news_svg__a"><path fill="#fff" d="M0 0h24v24H0z"></path></clipPath></defs></svg></a><a href="https://t.me/everdome" target="_blank" rel="noreferrer"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#logo-telegram_svg__a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M18.384 22.779a1.19 1.19 0 0 0 1.107.145 1.16 1.16 0 0 0 .724-.84C21.084 18 23.192 7.663 23.983 3.948a.78.78 0 0 0-.26-.758.8.8 0 0 0-.797-.14C18.733 4.602 5.82 9.447.542 11.4a.827.827 0 0 0-.542.799c.012.354.25.66.593.764 2.367.708 5.474 1.693 5.474 1.693s1.452 4.385 2.209 6.615c.095.28.314.5.603.576a.866.866 0 0 0 .81-.207l3.097-2.923s3.572 2.619 5.598 4.062Zm-11.01-8.677 1.679 5.538.373-3.507L19.61 6.947a.277.277 0 0 0 .033-.377.284.284 0 0 0-.376-.064L7.374 14.102Z" fill="currentColor"></path></g><defs><clipPath id="logo-telegram_svg__a"><path fill="#fff" d="M0 0h24v24H0z"></path></clipPath></defs></svg></a><a href="https://discord.gg/everdome" target="_blank" rel="noreferrer"><svg width="24" height="24" viewBox="0 0 71 55" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M60.105 4.898A58.55 58.55 0 0 0 45.653.415a.22.22 0 0 0-.233.11 40.784 40.784 0 0 0-1.8 3.697c-5.456-.817-10.886-.817-16.23 0-.485-1.164-1.201-2.587-1.828-3.697a.228.228 0 0 0-.233-.11 58.386 58.386 0 0 0-14.451 4.483.207.207 0 0 0-.095.082C1.578 18.73-.944 32.144.293 45.39a.244.244 0 0 0 .093.167c6.073 4.46 11.955 7.167 17.729 8.962a.23.23 0 0 0 .249-.082 42.08 42.08 0 0 0 3.627-5.9.225.225 0 0 0-.123-.312 38.772 38.772 0 0 1-5.539-2.64.228.228 0 0 1-.022-.378c.372-.279.744-.569 1.1-.862a.22.22 0 0 1 .23-.03c11.619 5.304 24.198 5.304 35.68 0a.219.219 0 0 1 .233.027c.356.293.728.586 1.103.865a.228.228 0 0 1-.02.378 36.384 36.384 0 0 1-5.54 2.637.227.227 0 0 0-.121.315 47.249 47.249 0 0 0 3.624 5.897.225.225 0 0 0 .249.084c5.801-1.794 11.684-4.502 17.757-8.961a.228.228 0 0 0 .092-.164c1.48-15.315-2.48-28.618-10.497-40.412a.18.18 0 0 0-.093-.084Zm-36.38 32.427c-3.497 0-6.38-3.211-6.38-7.156 0-3.944 2.827-7.156 6.38-7.156 3.583 0 6.438 3.24 6.382 7.156 0 3.945-2.827 7.156-6.381 7.156Zm23.593 0c-3.498 0-6.38-3.211-6.38-7.156 0-3.944 2.826-7.156 6.38-7.156 3.582 0 6.437 3.24 6.38 7.156 0 3.945-2.798 7.156-6.38 7.156Z" fill="currentColor"></path></svg></a></div><div id="staking-modal"></div><div id="switch-network"></div><div id="connect-wallet-modal"></div><div class="sc-7dd06286-1 hOBZqi"></div><div class="Toastify"></div></div></div><script id="__NEXT_DATA__" type="application/json"> {
+    "props": {
+        "pageProps": {}
+        ,
+        "__N_SSG": true
+    }
+    ,
+    "page":"/[slug]",
+    "query": {}
+    ,
+    "buildId":"eAbIalO75ZFjhojX4V5CN",
+    "isFallback":true,
+    "gsp":true,
+    "locale":"en",
+    "locales":["en"],
+    "defaultLocale":"en",
+    "scriptLoader":[]
+}
+
+</script></body></html>
